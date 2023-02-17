@@ -1,3 +1,2 @@
 # PuzzleGame!
 
-![330506135_9285529514791289_7736955910611268141_n](https://user-images.githubusercontent.com/83458760/219615243-a02057ab-efed-4f79-b56a-420d6ead986f.gif)
